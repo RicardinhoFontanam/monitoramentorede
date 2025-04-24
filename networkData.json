@@ -1,0 +1,15 @@
+{
+  "bandwidth": "97 Mbps",
+  "stable": true,
+  "devices": [
+    { "name": "Notebook João", "ip": "192.168.0.12" },
+    { "name": "Impressora", "ip": "192.168.0.15" }
+  ],
+  "router": {
+    "model": "TP-Link Archer C80"
+  },
+  "switch": {
+    "model": "Cisco SG110D",
+    "ports": 8
+  }
+}
